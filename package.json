@@ -1,0 +1,9 @@
+{
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "version": "node version.js && git add app/manifest.json",
+    "postversion": "git push && git push --tags",
+    "build": "zip archive.zip app"
+  }
+}
