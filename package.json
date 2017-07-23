@@ -4,6 +4,6 @@
   "scripts": {
     "version": "node version.js && git add app/manifest.json",
     "postversion": "git push && git push --tags",
-    "build": "zip archive.zip app"
+    "build": "zip -r archive.zip app"
   }
 }
