@@ -1,5 +1,5 @@
 {
-  "name": "Twitter Mobile Redirector",
+  "name": "Twitter Lite Redirector",
   "version": "0.2.0",
   "description": "Redirect to mobile.twitter.com from twitter.com",
   "manifest_version": 2,
@@ -11,7 +11,7 @@
     "128": "img/128.png"
   },
   "browser_action": {
-    "default_title": "Twitter Mobile Redirector"
+    "default_title": "Twitter Lite Redirector"
   },
   "background": {
     "scripts": [
