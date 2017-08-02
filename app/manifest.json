@@ -32,6 +32,7 @@
   ],
   "permissions": [
     "background",
+    "storage",
     "https://twitter.com/*"
   ],
   "offline_enabled": false
