@@ -28,7 +28,8 @@
         "https://twitter.com/*"
       ],
       "exclude_matches": [
-        "https://twitter.com/intent/*"
+        "https://twitter.com/intent/*",
+        "https://twitter.com/share*"
       ],
       "run_at": "document_start"
     }
