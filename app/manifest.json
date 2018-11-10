@@ -1,6 +1,6 @@
 {
   "name": "Twitter Lite Redirector",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "description": "Redirect to mobile.twitter.com from twitter.com",
   "manifest_version": 2,
   "icons": {
